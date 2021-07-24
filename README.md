@@ -35,6 +35,7 @@
 ---
 
 ## 앱 이미지
+![KakaoTalk_Photo_2021-07-24-17-12-01](https://user-images.githubusercontent.com/57403237/126862202-168407cb-00ed-494b-aa54-613230f2703f.png)
 
 ---
 
