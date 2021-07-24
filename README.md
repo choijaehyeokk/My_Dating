@@ -34,12 +34,12 @@
 
 ---
 
-## 앱 이미지
+## 🌠 앱 이미지
 ![KakaoTalk_Photo_2021-07-24-17-12-01](https://user-images.githubusercontent.com/57403237/126862202-168407cb-00ed-494b-aa54-613230f2703f.png)
 
 ---
 
-## 개발 프레임워크 이미지
+## ➿ 개발 프레임워크 이미지
 ![KakaoTalk_Image_2021-07-24-16-54-15](https://user-images.githubusercontent.com/57403237/126861827-74136c48-c710-4a8f-b062-a22c28359155.png)
 
 ---
