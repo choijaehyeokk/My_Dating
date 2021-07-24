@@ -189,7 +189,7 @@ Firebase
 - 데이터 분석(구조, I/O의 관계) 및 전처리(구문, 의미 분석)
 - 학습 및 테스트 데이터 분할
 
-**이재민**([https://github.com/jjmmll0727](https://github.com/jjmmll0727)
+**이재민**([https://github.com/jjmmll0727](https://github.com/jjmmll0727))
 
 - Android 음성 인식 기능 구현
 - cloud-speech-to-text API 연동
